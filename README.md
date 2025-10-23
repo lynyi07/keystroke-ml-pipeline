@@ -70,7 +70,7 @@ If you’d like to run the notebook on your own machine:
     # Step 3: Install dependencies
     pip install -r requirements.txt
 
-5. Open `final-year-project-lyn-yi.ipynb` and set the following variable:
+5. Open `keystroke_ml_pipeline.ipynb ` and set the following variable:
    ```python
    KAGGLE = False
 6. Execute all cells to reproduce the pipeline.
