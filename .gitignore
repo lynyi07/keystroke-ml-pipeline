@@ -1,0 +1,5 @@
+*.csv
+*.pickle
+
+# Ignore any data folders
+input/

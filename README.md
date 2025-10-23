@@ -15,7 +15,7 @@ You have two ways to explore this project:
 
 If you just want to read through the project and see the results:
 
-[Open the full notebook on Kaggle](https://www.kaggle.com/code/chenglynyi/final-year-project-lyn-yi)  
+[Open the full notebook on Kaggle](https://www.kaggle.com/code/chenglynyi/keystroke-machine-pipeline)  
 
 No setup required — everything has already been run.
 
@@ -24,8 +24,10 @@ No setup required — everything has already been run.
 ### Option 2: Run It Yourself Locally
 
 If you’d like to run the notebook on your own machine:
-
-1. Go to the [executed Kaggle notebook](https://www.kaggle.com/code/chenglynyi/final-year-project-lyn-yi) and click **Download** to get the `.ipynb` file.
+1. **Clone this GitHub repository:**
+   ```bash
+   git clone https://github.com/lynyi07/Keystroke-Machine-Learning-Pipeline.git
+   cd Keystroke-Machine-Learning-Pipeline
 
 2. Download the required datasets:
    - **Preprocessed Dataset (lynyi-data)**:  
@@ -36,7 +38,7 @@ If you’d like to run the notebook on your own machine:
 
 3. Place the files to match the following structure:
     ```
-    ├── final-year-project-lyn-yi.ipynb         # Main Jupyter Notebook
+    ├── keystroke_ml_pipeline.ipynb         # Main Jupyter Notebook
     ├── requirements.txt                        # Python dependencies
     ├── README.md                               # Project Overview and Instructions
     ├── input/
