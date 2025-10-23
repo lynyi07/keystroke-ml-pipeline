@@ -39,8 +39,10 @@ If you’d like to run the notebook on your own machine:
 3. Place the files to match the following structure:
     ```
     ├── keystroke_ml_pipeline.ipynb         # Main Jupyter Notebook
-    ├── requirements.txt                        # Python dependencies
-    ├── README.md                               # Project Overview and Instructions
+    ├── project_report.pdf                      # Project write up 
+    ├── project_appendix.pdf                    # Additional Information for write up 
+    ├── requirements.txt    
+    ├── README.md                               
     ├── input/
     │   └── linking-writing-processes-to-writing-quality/
     │       ├── test_logs.csv                   # Raw test keystroke logs
@@ -74,6 +76,14 @@ If you’d like to run the notebook on your own machine:
    ```python
    KAGGLE = False
 6. Execute all cells to reproduce the pipeline.
+
+The full written report and appendix for this project are included below:
+
+### Project Documentation
+
+These documents provide detailed background, methodology, and evaluation results supporting the findings of this project.
+- [Project Report (Final Write-Up)](project_report.pdf)  
+- [Appendix (Supplementary Materials)](project_appendix.pdf)
 
 ### Usage Notes
 
